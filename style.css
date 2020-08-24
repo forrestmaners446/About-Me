@@ -1,0 +1,39 @@
+body {
+  color: black;
+}
+
+h1 {
+	color: #05a8co;
+}
+
+h2 {
+	color: #c2a36;
+}
+
+ol {
+	color: #65365a;
+}
+
+header {
+  padding: 60px;
+  text-align: center;
+  background: #0066CC;
+  color: white;
+  font-size: 30px;
+}
+
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #0066CC;
+  color: White;
+  text-align: center;
+}
+
+a {
+  color: White;
+}
+body {background-color: gray;}
